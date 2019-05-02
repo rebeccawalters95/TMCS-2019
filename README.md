@@ -54,11 +54,11 @@ Wednesday 15th May (DRG, JB, SH, AJB, DS, BW)
 * 15:45 coffee
 * 16:00 [Testing software and catching errors](testing/README.md) ([slides](testing/slides.pdf)) - JB/DRG
 * 17:00 Overview of the four hackathon projects
-    * JB - Brownian motion on a 2d lattice with pyGlet graphics 
-    * DS - Aesthetic style transfer using neural nets
-    * SH/RW/AJB - Interactive molecular dynamics in VR (iMD-VR)
-      * RW/AJB - Code-your-own iMD-VR molecular simulations
-      * SH/AJB - Dimensionality reduction of iMD-VR data
+    * JB - Brownian motion on a 2d lattice with pyGlet graphics (presentation information?)
+    * DS - Aesthetic style transfer using neural nets (presentation information?)
+    * SH/RW/AJB - Interactive molecular dynamics in VR (iMD-VR) 
+      * RW/AJB - Code-your-own iMD-VR molecular simulations (presentation information?)
+      * SH/AJB - Dimensionality reduction of iMD-VR data (presentation information?)
 * 17:45 Pub. Students should take this opportunity to organize themselves into their project groups
 
 Thursday 16th May (DRG, JB, SH, AJB, DS, BW)
