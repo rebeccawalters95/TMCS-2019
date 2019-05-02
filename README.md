@@ -2,7 +2,14 @@
 
 Tues 14th - Fri 17th, May 2019
 
-Jonathan Barnoud (JB), Stephanie Hare (SH), Alexander Jamieson-Binnie (AJB), Dasha Shchepanovska (DS), Becca Walters (BW)
+designed by David R Glowacki (DRG)
+
+with assistance from:
+Stephanie Hare (SH)
+Jonathan Barnoud (JB)
+Dasha Shchepanovska (DS) 
+Becca Walters (BW)
+Alexander Jamieson-Binnie (AJB)
 
 ## Timetable
 
@@ -35,26 +42,24 @@ Tuesday 14th May (DRG)
 Wednesday 15th May (DRG, JB, SH, AJB, DS, BW)
 
 * 10:00 [Experiment & Play: Use what you've learned to hack-your-own game mechanics](outlines/II-pyGlet-GameMechanics.md)
-* 11:15 coffee
-* 11:30 Version Control 
-    * [Part 1: Basic git - structure & commands](outlines/git-outline.md#git-and-version-control) - JB
+* 11:00 coffee
+* 12:15 show and tell
 * 12:30 Lunch
 * 13:30 Version Control 
+    * [Part 1: Basic git - structure & commands](outlines/git-outline.md#git-and-version-control) - JB
     * [Part 2: Remote repos & GIT GUIs](outlines/git-outline.md#part-2) - JB
-    * live code example: how to upload your game projects onto github using gitkraken
 * 14:30 coffee
-* 14:45 [Testing software and catching errors](testing/README.md) ([slides](testing/slides.pdf)) - JB/DRG
-* 15:15 A REALLY Quick overview of machine learning & data science (DRG)
+* 14:45 Version Control 
+    * [Part 2: Remote repos & GIT GUIs](outlines/git-outline.md#part-2) - JB
+    * Part 3: upload your game projects onto the TMCS-2019 github projects using gitkraken (DRG to write)
 * 15:45 coffee
-* 16:00 Overview of the four hackathon projects
-    * JB - Simulating brownian motion on a 2d lattice
+* 16:00 [Testing software and catching errors](testing/README.md) ([slides](testing/slides.pdf)) - JB/DRG
+* 17:00 Overview of the four hackathon projects
+    * JB - Brownian motion on a 2d lattice with pyGlet graphics 
     * DS - Aesthetic style transfer using neural nets
     * SH/RW/AJB - Interactive molecular dynamics in VR (iMD-VR)
-      * RW/AJB - Code-your-own iMD-VR simulations
+      * RW/AJB - Code-your-own iMD-VR molecular simulations
       * SH/AJB - Dimensionality reduction of iMD-VR data
-* 16:30 coffee
-* 16:45 The data science pipeline [slides](https://gitpitch.com/larsbratholm/boot-camps/master?p=pipeline) - LAB
-    * [jupyter notebook](pipeline/data_science_pipeline.ipynb)
 * 17:45 Pub. Students should take this opportunity to organize themselves into their project groups
 
 Thursday 16th May (DRG, JB, SH, AJB, DS, BW)
@@ -64,13 +69,11 @@ Thursday 16th May (DRG, JB, SH, AJB, DS, BW)
     * group 2 led by DS - repo/info 
     * group 3 led by RW/AJB - repo/info 
     * group 4 led by SH/AJB - repo/info
-* 12:00 - 13:00 guest lecture: Clare Macrae (developer @Cambridge Crystallographic Data Centre)
-    * [download link for Clare's ppt slides: professional software development](proSoftwareDev2018.pptx)
 * 18:00 - 19:00 pizza/wine party!
 
 Friday 17th May (DRG, JB, SH, AJB, DS, BW)
  
-* 11:00 - 15:00 hackathon
+* 10:00 - 15:00 hackathon
 * 15:00 - 16:00 show and tell
 
 
