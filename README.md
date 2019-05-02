@@ -47,7 +47,6 @@ Wednesday 15th May (DRG, JB, SH, AJB, DS, BW)
 * 12:30 Lunch
 * 13:30 Version Control 
     * [Part 1: Basic git - structure & commands](outlines/git-outline.md#git-and-version-control) - JB
-    * [Part 2: Remote repos & GIT GUIs](outlines/git-outline.md#part-2) - JB
 * 14:30 coffee
 * 14:45 Version Control 
     * [Part 2: Remote repos & GIT GUIs](outlines/git-outline.md#part-2) - JB
