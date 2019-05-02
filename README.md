@@ -1,12 +1,12 @@
-# CDT Software Course - TMCS 2018
+# CDT Software Course - TMCS 2019
 
-Tues 16th - Fri 19th, May 2017.
+Tues 14th - Fri 17th, May 2019
 
-Lars Andersen Bratholm (LAB), Mike O'Connor (MOC), Silvia Amabilino (SA), David Glowacki (DRG)
+Jonathan Barnoud (JB), Stephanie Hare (SH), Alexander Jamieson-Binnie (AJB), Dasha Shchepanovska (DS), Becca Walters (BW)
 
 ## Timetable
 
-Tuesday 29th May (DRG)
+Tuesday 14th May (DRG)
 
 * 10:00 Introduction and Overview
 * 10:15 Getting Started with Python
@@ -32,7 +32,7 @@ Tuesday 29th May (DRG)
 * 15:30 [Experiment & Play: Use what you've learned to hack-your-own game mechanics](outlines/II-pyGlet-GameMechanics.md)
 * 17:30 Finish 
 
-Wednesday 30th May (LAB, MOC, SA, DRG)
+Wednesday 15th May (DRG, JB, SH, AJB, DS, BW)
 
 * 10:00 [Experiment & Play: Use what you've learned to hack-your-own game mechanics](outlines/II-pyGlet-GameMechanics.md)
 * 11:15 coffee
@@ -46,29 +46,32 @@ Wednesday 30th May (LAB, MOC, SA, DRG)
 * 14:45 [Testing software and catching errors](testing/README.md) ([slides](testing/slides.pdf)) - LAB/DRG
 * 15:15 A REALLY Quick overview of machine learning & data science (DRG)
 * 15:45 coffee
-* 16:00 Overview of the three hackathon projects
-    * LAB - Learning with TensorFlow - [slides](https://gitpitch.com/larsbratholm/boot-camps/master?p=tf_tutorial/presentation)
-    * SA  - Machine learning potential energy surfaces
-    * MOC - Machine learning hand pose for interactive molecular simulation in VR
+* 16:00 Overview of the four hackathon projects
+    * JB - Simulating brownian motion on a 2d lattice
+    * DS - Aesthetic style transfer using neural nets
+    * SH/RW/AJB - Interactive molecular dynamics in VR (iMD-VR)
+      * RW/AJB - Code-your-own iMD-VR simulations
+      * SH/AJB - Dimensionality reduction of iMD-VR data
 * 16:30 coffee
 * 16:45 The data science pipeline [slides](https://gitpitch.com/larsbratholm/boot-camps/master?p=pipeline) - LAB
     * [jupyter notebook](pipeline/data_science_pipeline.ipynb)
 * 17:45 Pub. Students should take this opportunity to organize themselves into their project groups
 
-Thursday 31st May (LAB, MOC, SA, DRG)
+Thursday 16th May (DRG, JB, SH, AJB, DS, BW)
 
 * 10:00 - 18:00 hackathon
-    * group 1 led by LAB - tutorial [here](tf_tutorial/README.md)
-    * group 2 led by SA - repository [here](https://bitbucket.org/SilviaAmAm/tmcs_2018/src/master/)  
-    * group 3 led by MOC - repository [here](https://github.com/mikeoconnor0308/tensorglove)
+    * group 1 led by JB - repo/info 
+    * group 2 led by DS - repo/info 
+    * group 3 led by RW/AJB - repo/info 
+    * group 4 led by SH/AJB - repo/info
 * 12:00 - 13:00 guest lecture: Clare Macrae (developer @Cambridge Crystallographic Data Centre)
     * [download link for Clare's ppt slides: professional software development](proSoftwareDev2018.pptx)
 * 18:00 - 19:00 pizza/wine party!
 
-Friday 1st Jun (LAB, MOC, SA, DRG)
+Friday 17th May (DRG, JB, SH, AJB, DS, BW)
  
-* 11:00 - 16:00 hackathon
-* 16:00 - 17:00 show and tell
+* 11:00 - 15:00 hackathon
+* 15:00 - 16:00 show and tell
 
 
 ## Hints and tips
