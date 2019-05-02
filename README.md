@@ -37,13 +37,13 @@ Wednesday 15th May (DRG, JB, SH, AJB, DS, BW)
 * 10:00 [Experiment & Play: Use what you've learned to hack-your-own game mechanics](outlines/II-pyGlet-GameMechanics.md)
 * 11:15 coffee
 * 11:30 Version Control 
-    * [Part 1: Basic git - structure & commands](outlines/git-outline.md#git-and-version-control) - LAB
+    * [Part 1: Basic git - structure & commands](outlines/git-outline.md#git-and-version-control) - JB
 * 12:30 Lunch
 * 13:30 Version Control 
-    * [Part 2: Remote repos & GIT GUIs](outlines/git-outline.md#part-2) - LAB
+    * [Part 2: Remote repos & GIT GUIs](outlines/git-outline.md#part-2) - JB
     * live code example: how to upload your game projects onto github using gitkraken
 * 14:30 coffee
-* 14:45 [Testing software and catching errors](testing/README.md) ([slides](testing/slides.pdf)) - LAB/DRG
+* 14:45 [Testing software and catching errors](testing/README.md) ([slides](testing/slides.pdf)) - JB/DRG
 * 15:15 A REALLY Quick overview of machine learning & data science (DRG)
 * 15:45 coffee
 * 16:00 Overview of the four hackathon projects
