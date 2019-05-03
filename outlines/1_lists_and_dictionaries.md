@@ -324,32 +324,21 @@ Python provides a nice shorthand for looping over every item in a list
 
 will print the same output.
 
-You can also create a string from a list of letters. For this, you need to import and use the "string" module from python
+You can also create a string from a list of letters.
 
-    $ import string
     $ a = ['h', 'e', 'l', 'l', 'o']
     $ print(a)
     ['h', 'e', 'l', 'l', 'o']
 
-    $ s = string.join(a)
+    $ separator = ' '
+    $ s = separator.join(a)
     $ print(s)
     'h e l l o'
 
-Note that string.join has added a space between each letter. Using help() we can see how to remove this space
+This joins the elements of "a" around the string in "separator". That string can be any string, including an empty one.
 
-    $ help(string.join)
-    Help on function join in module string:
-    
-    join(words, sep=' ')
-        join(list [,sep]) -> string
-    
-        Return a string composed of the words in list, with
-        intervening occurrences of sep.  The default separator is a
-        single space.
-    
-        (joinfields and join are synonymous)
-
-    $ s = string.join(a, "")
+    $ separator = ''
+    $ s = separator.join(a)
     $ s
     'hello'
 
